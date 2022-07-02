@@ -1,7 +1,7 @@
-# azure-ci-cd
-CI & CD training with GitHub Actions and Azure Pipelines
+# azure-ci
+CI training with GitHub Actions
 
-This project is for my training of CI & CD using Github Actions & Azure Pipelines
+This project is for my training of CI using Github Actions
 
 
 [![Python application test with Github Actions](https://github.com/Lakshya31/azure-ci-cd/actions/workflows/main.yml/badge.svg)](https://github.com/Lakshya31/azure-ci-cd/actions/workflows/main.yml)
