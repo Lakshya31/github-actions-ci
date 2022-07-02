@@ -1,4 +1,4 @@
-# azure-ci
+# github-actions-ci
 CI training with GitHub Actions
 
 This project is for my training of CI using Github Actions
